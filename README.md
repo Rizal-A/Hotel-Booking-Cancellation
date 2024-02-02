@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation
+# Hotel Booking Cancellation Prediction
 <img src = 'https://github.com/Rizal-A/Hotel-Booking-Cancellation/assets/117552819/92e736f7-d80d-4c22-a5d1-80fb1ca5ffa4' width = 1000>
 
 ## Project Overview
